@@ -9,6 +9,8 @@
   <img src='https://kingbotreg.ru/img/tg/weather3.png'>
 <h4>4. При ошибках выводится ошибка</h4>
   <img src='https://kingbotreg.ru/img/tg/weather4.png'>
+<h4>5. Вспомогательное меню бота /help</h4>
+  <img src='https://kingbotreg.ru/img/tg/weather5.png'>
 <h3>👾 Использоваемые библиотеки:</h3>
 
 `pyTelegramBotAPI`
